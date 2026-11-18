@@ -4,7 +4,7 @@ This project automates the login and account validation process for a web panel 
 
 ## 📌 Features
 
-- Automated login to https://panel.b-hood.ro
+- Automated login to example website
 - Supports CSRF token handling and form submission
 - Detects login errors, PIN requirement, and rate limiting
 - Scrapes user profile data: Level & Faction Punish
